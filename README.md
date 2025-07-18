@@ -149,8 +149,8 @@ To open the weatherPi_station sketch in Processing:
 🧭 Launch the Processing IDE.
 
 1. 📁 Go to File > Open...
-2. 📂 Navigate to the arduino_three_joysticks folder.
-3. 📄 Select the arduino_three_joysticks.pde file.
+2. 📂 Navigate to the weatherPi_station folder.
+3. 📄 Select the weatherPi_station.pde file.
 4. ▶️ Click the Run button (or press Ctrl + R) to execute the sketch.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -343,16 +343,16 @@ Photo by Aleksejs Bergmanis: https://www.pexels.com/photo/aerial-photo-of-buildi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/olmomoreno/arduino_three_joysticks.svg?style=for-the-badge
-[contributors-url]: https://github.com/olmomoreno/arduino_three_joysticks/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/olmomoreno/arduino_three_joysticks.svg?style=for-the-badge
-[forks-url]: https://github.com/olmomoreno/arduino_three_joysticks/network/members
-[stars-shield]: https://img.shields.io/github/stars/olmomoreno/arduino_three_joysticks.svg?style=for-the-badge
-[stars-url]: https://github.com/olmomoreno/arduino_three_joysticks/stargazers
-[issues-shield]: https://img.shields.io/github/issues/olmomoreno/arduino_three_joysticks.svg?style=for-the-badge
-[issues-url]: https://github.com/olmomoreno/arduino_three_joysticks/issues
+[contributors-shield]: https://img.shields.io/github/contributors/olmomoreno/weatherPi_station.svg?style=for-the-badge
+[contributors-url]: https://github.com/olmomoreno/weatherPi_station/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/olmomoreno/weatherPi_station.svg?style=for-the-badge
+[forks-url]: https://github.com/olmomoreno/weatherPi_station/network/members
+[stars-shield]: https://img.shields.io/github/stars/olmomoreno/weatherPi_station.svg?style=for-the-badge
+[stars-url]: https://github.com/olmomoreno/weatherPi_station/stargazers
+[issues-shield]: https://img.shields.io/github/issues/olmomoreno/weatherPi_station.svg?style=for-the-badge
+[issues-url]: https://github.com/olmomoreno/weatherPi_station/issues
 [license-shield]:  https://img.shields.io/badge/LICENSE-MIT_LICENSE-FFFFFF.svg?style=for-the-badge
-[license-url]: https://github.com/olmomoreno/arduino_three_joysticks/blob/main/LICENSE.txt
+[license-url]: https://github.com/olmomoreno/weatherPi_station/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: data/images/weatherPi_station.png
